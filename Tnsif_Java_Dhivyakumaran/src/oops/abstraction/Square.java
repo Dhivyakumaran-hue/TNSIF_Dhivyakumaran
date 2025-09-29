@@ -1,5 +1,5 @@
 //Program to demonstrate abstraction
-package oops_abstraction;
+package oops.abstraction;
 
 public class Square extends Shape{
 	private float side;

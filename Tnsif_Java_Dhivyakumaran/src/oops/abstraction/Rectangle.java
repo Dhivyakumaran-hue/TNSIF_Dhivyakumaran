@@ -1,5 +1,5 @@
 //Program to demonstrate abstraction
-package oops_abstraction;
+package oops.abstraction;
 
 public class Rectangle extends Shape{
 	private float width, height;

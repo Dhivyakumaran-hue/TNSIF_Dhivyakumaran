@@ -1,5 +1,4 @@
-//Program to define abstract class
-package oops_abstraction;
+package oops.abstraction;
 
 //abstract class
 public abstract class Shape {
